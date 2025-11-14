@@ -1,1 +1,1 @@
-# prakticky-ukol-fapi
+# Praktický úkol pro vstupní test
