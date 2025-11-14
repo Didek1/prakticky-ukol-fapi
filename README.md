@@ -1,1 +1,1 @@
-# Praktický úkol pro vstupní test
+# Praktický úkol pro vstupní test - Dominik Didek
