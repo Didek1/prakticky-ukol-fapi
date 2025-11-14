@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig(({ mode }) =>
 {
-  const apiUrl = "https://localhost:7108/";
+  const apiUrl = "https://localhost:7108";
 
   return {
     plugins: [react()],
